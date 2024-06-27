@@ -14,7 +14,7 @@ Desenvolvedora Python, Freelancer e entusiasta em Data Science.
    Realização de estudos avançados sobre redes de quinta (5ª) geração.
    Fez parte do grupo de pesquisa de Eletromagnetismo Aplicado (UFPA) (http://dgp.cnpq.br/dgp/espelhogrupo/1406049134131706).
 
-## 🛰 Minhas redes sociais
+## 🛰 Contatos
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/teixeira-fatima/)
 - [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fatima.fpat@gmail.com)
 
