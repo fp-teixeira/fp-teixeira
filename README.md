@@ -14,10 +14,6 @@ Desenvolvedora Python, Freelancer e entusiasta em Data Science.
    Realização de estudos avançados sobre redes de quinta (5ª) geração.
    Fez parte do grupo de pesquisa de Eletromagnetismo Aplicado (UFPA) (http://dgp.cnpq.br/dgp/espelhogrupo/1406049134131706).
 
-## 🛰 Contatos
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/teixeira-fatima/)
-- [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fatima.fpat@gmail.com)
-
 ## 💡 Habilidades
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
@@ -37,7 +33,10 @@ Desenvolvedora Python, Freelancer e entusiasta em Data Science.
 ![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fp-teixeira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide=stars)
+
+## 🛰 Contatos
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/teixeira-fatima/)
+- [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fatima.fpat@gmail.com)
